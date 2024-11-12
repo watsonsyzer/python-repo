@@ -1,5 +1,2 @@
 def addition(first, second):
-  result = first + second
-
-
-print(adition(1,2))
+  return result = first + second
