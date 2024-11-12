@@ -1,2 +1,3 @@
 def addition(first, second):
-  return result = first + second
+  result = first + second
+  return result
